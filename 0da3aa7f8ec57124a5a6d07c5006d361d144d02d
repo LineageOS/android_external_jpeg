@@ -16,6 +16,24 @@
       "revId": "0da3aa7f8ec57124a5a6d07c5006d361d144d02d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_8fd795ec",
+        "filename": "jidctfst_neon.S",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 6471
+      },
+      "writtenOn": "2015-01-08T13:59:09Z",
+      "side": 1,
+      "message": "https://android-review.googlesource.com/#/c/21648/",
+      "parentUuid": "7aa08908_4ce3fb05",
+      "revId": "0da3aa7f8ec57124a5a6d07c5006d361d144d02d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
