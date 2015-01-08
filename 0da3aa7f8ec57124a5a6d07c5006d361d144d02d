@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_4ce3fb05",
+        "filename": "jidctfst_neon.S",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 10984
+      },
+      "writtenOn": "2015-01-08T07:02:54Z",
+      "side": 1,
+      "message": "I don\u0027t see any LICENSE here... \nI don\u0027t where did this commit originally came from, but looking at this I\u0027d have to assume that this file isn\u0027t open source.",
+      "revId": "0da3aa7f8ec57124a5a6d07c5006d361d144d02d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
