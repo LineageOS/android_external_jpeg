@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "9f436f4f_32d00eca",
+        "filename": "jddctmgr.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 205,
+      "author": {
+        "id": 13956
+      },
+      "writtenOn": "2015-09-30T05:24:09Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9f436f4f_b24e3ebf",
+      "range": {
+        "startLine": 205,
+        "startChar": 0,
+        "endLine": 205,
+        "endChar": 5
+      },
+      "revId": "d1513d16330af09cbf0304b8619afd18188197cf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f436f4f_d251c264",
         "filename": "jddctmgr.c",
         "patchSetId": 2
@@ -36,6 +60,30 @@
       "writtenOn": "2015-09-30T05:17:33Z",
       "side": 1,
       "message": "and this should be gone",
+      "range": {
+        "startLine": 207,
+        "startChar": 0,
+        "endLine": 207,
+        "endChar": 6
+      },
+      "revId": "d1513d16330af09cbf0304b8619afd18188197cf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_12d50aba",
+        "filename": "jddctmgr.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 207,
+      "author": {
+        "id": 13956
+      },
+      "writtenOn": "2015-09-30T05:24:09Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9f436f4f_d251c264",
       "range": {
         "startLine": 207,
         "startChar": 0,
