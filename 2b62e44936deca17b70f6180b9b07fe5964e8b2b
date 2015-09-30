@@ -16,6 +16,24 @@
       "revId": "2b62e44936deca17b70f6180b9b07fe5964e8b2b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_b2207ef9",
+        "filename": "jsimd_neon.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 13956
+      },
+      "writtenOn": "2015-09-30T05:04:39Z",
+      "side": 0,
+      "message": "It is unused, Originally libjpeg-turbo determine the system support neon or not dynamically. But in Android it is not used for arm 32bits. And in 64bits that header does not exist.",
+      "parentUuid": "9f436f4f_92445ab9",
+      "revId": "2b62e44936deca17b70f6180b9b07fe5964e8b2b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
